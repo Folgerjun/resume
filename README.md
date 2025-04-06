@@ -59,7 +59,7 @@
 ---
 
 ## 开源与作品  
-- **GitHub**：[https://github.com/Folgerjun](https://github.com/Folgerjun)（分享技术案例、解题思路、实战实例等总获100+ Star）  
+- **GitHub**：[https://github.com/Folgerjun](https://github.com/Folgerjun)（分享技术案例、实战示例、解题思路等总获100+ Star）  
 - **技术博客**：[http://putop.top](http://putop.top)（原创文章80+篇，涵盖分布式系统、性能优化等领域）  
 
 ---
